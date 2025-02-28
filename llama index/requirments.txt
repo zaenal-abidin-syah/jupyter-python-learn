@@ -1,0 +1,8 @@
+llama-index
+python-dotenv
+html2text
+llama-index-readers-web
+llama-index-embeddings-huggingface
+peft
+# if using different base url openai
+llama-index-llms-openai-like
